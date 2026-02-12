@@ -194,10 +194,7 @@ body {
 }
 
 .about-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 50px;
-    align-items: center;
+    display: block;
 }
 
 .about-text p {
